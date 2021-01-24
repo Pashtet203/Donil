@@ -1,0 +1,10 @@
+C:\Users\Pasha\source\repos\Zadacha_35\Zadacha_35\bin\Debug\Zadacha_35.exe.config
+C:\Users\Pasha\source\repos\Zadacha_35\Zadacha_35\bin\Debug\Zadacha_35.exe
+C:\Users\Pasha\source\repos\Zadacha_35\Zadacha_35\bin\Debug\Zadacha_35.pdb
+C:\Users\Pasha\source\repos\Zadacha_35\Zadacha_35\obj\Debug\Zadacha_35.csprojAssemblyReference.cache
+C:\Users\Pasha\source\repos\Zadacha_35\Zadacha_35\obj\Debug\Zadacha_35.Form1.resources
+C:\Users\Pasha\source\repos\Zadacha_35\Zadacha_35\obj\Debug\Zadacha_35.Properties.Resources.resources
+C:\Users\Pasha\source\repos\Zadacha_35\Zadacha_35\obj\Debug\Zadacha_35.csproj.GenerateResource.cache
+C:\Users\Pasha\source\repos\Zadacha_35\Zadacha_35\obj\Debug\Zadacha_35.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\Zadacha_35\Zadacha_35\obj\Debug\Zadacha_35.exe
+C:\Users\Pasha\source\repos\Zadacha_35\Zadacha_35\obj\Debug\Zadacha_35.pdb
